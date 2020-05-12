@@ -1,5 +1,5 @@
 const discord = require("discord.js");
-const token = "Mzk5NTcwODE5NzQwODYwNDE2.DTZd6A.bRD_o1RB6I4qmIFMB2-6OjuTgO0";
+const token = "";
 const prefix = "!";
 var fortunes = [
   "Yes",
